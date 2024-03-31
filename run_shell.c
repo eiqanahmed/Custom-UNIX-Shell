@@ -180,7 +180,7 @@ int run_command(Command *command){
 
 
 int run_script(char *file_path, Variable **root){
-    //file_path = "./cscshell_init";
+    file_path = "./cscshell_init";
     //handle case where no path is defined in init script
 
     FILE *file = fopen(file_path, "r"); // Open the script file for reading
