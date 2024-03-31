@@ -1,1 +1,1 @@
-In order to to run this shell, navigate to the directory containing these files, and type './shell' into your terminal. 
+Firstly, open your terminal and type 'echo $PATH', to see a list of directories within your computer. Copy this output and paste it in the shell_init file in order to specify the PATH environment variable. In order to to run this shell, navigate to the directory containing these files, and type './shell' into your terminal. 
