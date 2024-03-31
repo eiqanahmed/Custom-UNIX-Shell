@@ -3,7 +3,6 @@
 
 
 void print_help(){
-    printf("CSC209 Shell\n");
     printf("Usage: cscshell [OPTION]... [SCRIPT-FILE]\n");
     printf("Options:\n");
     printf("  -h, --help\t\t\tDisplay this help message\n");
